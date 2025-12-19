@@ -1,6 +1,7 @@
 # Rag-based-AI
 This project builds a Retrieval-Augmented Generation (RAG) system over video content. It converts course videos into searchable text embeddings and allows users to ask questions that are answered by an LLM with exact video references and timestamps
 
+# How to use this RAG AI Teaching assistant on your own data
 
 Step 1 - Collect your videos
 Move all your video files to the videos folder
